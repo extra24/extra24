@@ -32,7 +32,8 @@
   </div>
   
   <br><br>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=extra24&utm_content=farm">
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=extra24&utm_content=farm&contribution-view=false">
 <img
   src="https://render.gitanimals.org/farms/extra24"
   width="600"
